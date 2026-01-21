@@ -1,4 +1,4 @@
-JIT-Admin-Bot: Slack-Native Identity Orchestrator
+Mellon-Slack-JIT-Tool: Slack-Native Identity Orchestrator
 
 A Zero-Trust Access Management tool that automates temporary "Break Glass" privileges via Slack commands and Okta APIs.
 
@@ -40,7 +40,7 @@ Key Features:
 1. **Clone the Repository**
    ```bash
    git clone [your-repo-link]
-   cd Mellon-JIT-Bot
+   cd Mellon-Slack-JIT-Tool
 
 ----------
 
