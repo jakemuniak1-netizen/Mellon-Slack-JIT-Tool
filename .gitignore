@@ -1,0 +1,7 @@
+.env
+ngrok
+audit_log.csv
+venv/
+__pycache__/
+.DS_Store
+*.pyc
